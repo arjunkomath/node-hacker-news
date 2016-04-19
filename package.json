@@ -6,6 +6,10 @@
   "scripts": {
     "test": "mocha tests/* -t 5000"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arjunkomath/node-hacker-news"
+  },
   "keywords": [
     "node",
     "hacker",
