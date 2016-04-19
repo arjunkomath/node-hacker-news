@@ -1,0 +1,22 @@
+{
+  "name": "node-hacker-news",
+  "version": "0.0.1",
+  "description": "Hacker News API client in node",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests/* -t 5000"
+  },
+  "keywords": [
+    "node",
+    "hacker",
+    "news",
+    "api"
+  ],
+  "author": "Arjun Komath <arjunkomath@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5",
+    "request": "^2.72.0"
+  }
+}
