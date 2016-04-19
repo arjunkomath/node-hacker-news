@@ -1,10 +1,10 @@
 {
   "name": "node-hacker-news",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Hacker News API client in node",
   "main": "index.js",
   "scripts": {
-    "test": "mocha tests/* -t 5000"
+    "test": "mocha tests/* -t 15000"
   },
   "repository": {
     "type": "git",
