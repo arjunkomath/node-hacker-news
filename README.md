@@ -1,4 +1,4 @@
-# node-hacker-news
+# node-hacker-news [![Build Status](https://travis-ci.org/arjunkomath/node-hacker-news.svg?branch=master)](https://travis-ci.org/arjunkomath/node-hacker-news)
 Hacker News Node Client
 
 [![NPM](https://nodei.co/npm/node-hacker-news.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/node-hacker-news/)
